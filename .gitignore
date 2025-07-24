@@ -1,0 +1,7 @@
+.env
+
+data/
+
+podcast_index.faiss
+
+/Users/georgia.bucea/apps/practice_ai/RAG/podcast_metadata.pkl
