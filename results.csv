@@ -1,0 +1,2 @@
+answer,human_answer,semantic_similarity,result
+"Answer the question based on the context. If the context doesn't contain relevant information, say so.   Oddly, in a year marred by the global pandemic and just this month an all-time high number of stay-at-home orders, this hot IPO is a travel company. Airbnb—originally known as AirBed and Breakfast Incorporate—is going public today raising over $3.5 billion, and initially valued at over $47 billion.Question","December 9,2020 at $68 per share",0.3883976340293884,INCORRECT
